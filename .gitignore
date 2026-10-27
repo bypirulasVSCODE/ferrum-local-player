@@ -1,0 +1,14 @@
+bin/
+obj/
+Thumbs.db
+.DS_Store
+FERRUM-previous.exe
+FERRUM-*-old.exe
+FERRUM.exe
+FERRUM-corregido.exe
+FERRUM-final.exe
+FERRUM-busqueda.exe
+
+*.exe
+*.zip
+Iniciar-FERRUM-Cambio*.cmd

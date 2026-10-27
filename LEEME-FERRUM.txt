@@ -1,0 +1,11 @@
+FERRUM — beta abierta
+
+Esta beta todavía está en desarrollo. Puedes usarla, reportar fallos y contribuir cambios.
+
+1. Ejecuta FERRUM-Beta.exe.
+2. Importa archivos locales o una carpeta.
+3. Crea playlists; puedes compartir su nombre, descripción y lista de temas, o eliminarlas.
+4. Usa Espacio y las teclas multimedia para controlar la reproducción.
+
+Los datos se guardan localmente en este dispositivo. FERRUM no distribuye archivos de música. Consulta README.md y CONTRIBUTING.md para contribuir. Licencia MIT.
+
